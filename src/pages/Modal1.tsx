@@ -61,6 +61,7 @@ const Modal1 = () => {
                             onClick={(e) => e.stopPropagation()}
                             className="bg-white p-10 rounded-2xl max-w-2xl max-h-[85vh] overflow-y-auto relative shadow-2xl">
 
+
                             {/* Botón cerrar */}
                             <button
                                 className="absolute top-4 right-6 text-4xl font-bold text-gray-400 hover:text-red-500 transition-colors"
